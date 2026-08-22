@@ -2,7 +2,7 @@
 
 Personal blog and portfolio site, built with [al-folio](https://github.com/alshedivat/al-folio) (Jekyll).
 
-🔗 Live site: https://stomper4.github.io.com
+🔗 Live site: https://stomper4.github.io
 
 
 (notes for myself)
